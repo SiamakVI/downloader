@@ -7,6 +7,7 @@
 - [eac-1.8](./eac-1.8)
 - [metalshit](./metalshit)
 - [newmetal](./newmetal)
+- [newnewnewmetal](./newnewnewmetal)
 - [razor](./razor)
 - [ujnicxaz8cd1](./ujnicxaz8cd1)
 
